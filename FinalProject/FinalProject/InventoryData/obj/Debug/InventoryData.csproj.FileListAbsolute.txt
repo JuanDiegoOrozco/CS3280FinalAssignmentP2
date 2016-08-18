@@ -1,0 +1,20 @@
+C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\bin\Debug\InventoryData.dll
+C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\bin\Debug\InventoryData.pdb
+C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\obj\Debug\InventoryData.csprojResolveAssemblyReference.cache
+C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\obj\Debug\InventoryData.dll
+C:\Users\faith's laptop\Documents\Weber State\Teaching\CS3280\Windows Applications\Assignments\InventoryData\obj\Debug\InventoryData.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.csprojResolveAssemblyReference.cache
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.csprojResolveAssemblyReference.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\InventoryData\bin\Debug\InventoryData.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.csprojResolveAssemblyReference.cache
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\InventoryData\obj\Debug\InventoryData.pdb

@@ -1,0 +1,222 @@
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryData.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryData.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.xml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\MainView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\MainView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryData.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\System.Windows.Interactivity.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryData.pdb
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\InventoryView.g.cs
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\MainView.g.cs
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.g.cs
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\OrdersView.g.cs
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\App.g.cs
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\InventoryView.baml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\MainView.baml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.baml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\OrdersView.baml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryData.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\System.Windows.Interactivity.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.pdb
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.pdb
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\InventoryData.pdb
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.xml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.xml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\InventoryView.g.cs
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\MainView.g.cs
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.g.cs
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\OrdersView.g.cs
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\App.g.cs
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\InventoryView.baml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\MainView.baml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.baml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\OrdersView.baml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\InventoryView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\OrdersView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\InventoryView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\Views\OrdersView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\App.baml
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Colin Hamilton\Documents\GitHub\CS-3280-Group-Project\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\App.baml
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CS3280FinalAssignment\FinalProject\FinalProject\obj\Debug\App.baml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryData.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.pdb
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.pdb
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryData.pdb
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.xml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\InventoryView.g.cs
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\MainView.g.cs
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.g.cs
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\OrdersView.g.cs
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\App.baml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\InventoryView.baml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\MainView.baml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.baml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\OrdersView.baml
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\marau\Documents\GitHub\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryData.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryData.pdb
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.xml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.xml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\InventoryView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\MainView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\OrdersView.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\App.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\App.baml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\InventoryView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\MainView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\OrdersView.baml
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\orozc\Documents\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryData.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\System.Windows.Interactivity.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\EntityFramework.dll
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataInteraction.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryDataMapping.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\InventoryData.pdb
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.xml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.xml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\bin\Debug\EntityFramework.xml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalAssignment.csprojResolveAssemblyReference.cache
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\InventoryView.g.cs
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\MainView.g.cs
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.g.cs
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\OrdersView.g.cs
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\App.g.cs
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.cache
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject_MarkupCompile.lref
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\App.baml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\InventoryView.baml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\MainView.baml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\NewOrderView.baml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\Views\OrdersView.baml
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.g.resources
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+D:\FinalProd2\CS3280FinalAssignmentP1\FinalProject\FinalProject\obj\Debug\FinalAssignment.csproj.GenerateResource.Cache
